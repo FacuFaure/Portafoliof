@@ -11,5 +11,5 @@ window.addEventListener('scroll', function() {
 
 // Función para descargar el CV
 document.getElementById('cvBtn').addEventListener('click', function() {
-    window.location.href = 'https://mi-cv.com/mi-cv.pdf'; // Sustituye este enlace con el tuyo
+    window.location.href = 'PortafolioFaure.docx'; // Sustituye este enlace con el tuyo
 });
